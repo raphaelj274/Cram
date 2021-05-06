@@ -27,7 +27,6 @@ export const Home = ({ navigation }: any) => {
           setArrowVisible(!arrowVisible);
           return setModalVisible(!modalVisible);
         }}
-        
       >
         <CustomText>
           {arrowVisible ? (
@@ -36,8 +35,7 @@ export const Home = ({ navigation }: any) => {
                 name="arrow-forward-outline"
                 size={25}
                 style={{ flex: 1 }}
-              >
-              </Ionicons>
+              ></Ionicons>
             </Text>
           ) : (
             "Log In"
@@ -106,6 +104,5 @@ const styles = StyleSheet.create({
   modalContainer: {
     display: "flex",
     justifyContent: "flex-end",
-    // margin: 100,
   },
 });
