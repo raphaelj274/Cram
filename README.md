@@ -6,6 +6,10 @@ Ed-tech App leveraging AI & OCR to help students move past breakpoints. Currentl
 
 Currently, Cram allows developers to take a photo of any problem they are struggling with, whether that be a photo of the code they are working on or the docs themselves. Cram will then process the image, sort the problem and return specific content based on the photo taken. For example, if a developer is setting up an express server, and its not working for whatever reason, they can take a photo of their code, hit cram, and cram will return a youtube video, a dedicated cheatsheet and allows users to navigate to other relevant topics that may help the developer. Try it out!
 
+## **Demo**
+
+![Cram App Demo](assets/demo.gif)
+
 ## **Tech Stack**
 
 A combination of React-Native with Expo has been used to build the user interface. While on the backend the app leverages GraphQL with ApolloClient to make queries to a seeded NoSQL database containing information on each topic.
