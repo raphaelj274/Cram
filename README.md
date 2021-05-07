@@ -17,19 +17,19 @@ A combination of React-Native with Expo has been used to build the user interfac
 
 ### **Front end**
 
-React-Native
-Expo
-'Typescript'
-ApolloClient
+React-Native </br>
+Expo </br>
+'Typescript' </br>
+ApolloClient </br>
 
 ### **Back end**
 
-ApolloServer
-GraphQL
-Typescript
-Google Cloud Platform (Vision API)
-MongoDB
-Mongoose
+ApolloServer </br>
+GraphQL </br>
+Typescript </br>
+Google Cloud Platform (Vision API) </br>
+MongoDB </br>
+Mongoose </br>
 
 ## **System Requirements**
 
@@ -84,5 +84,3 @@ You can run `ipconfig getifaddr en0` in the terminal to find out your IP address
 or
 
 `npm run start`
-
-<img src="https://i.imgur.com/TC67WUb.png" alt="drawing" width="200"/>
