@@ -8,7 +8,6 @@ Currently, Cram allows developers to take a photo of any problem they are strugg
 
 ## **Demo**
 
-<!-- ![Cram App Demo](assets/demo.gif) -->
 <img src="/assets/demo3.gif" alt="Cram App Demo"/>
 
 ## **Tech Stack**
@@ -17,19 +16,19 @@ A combination of React-Native with Expo has been used to build the user interfac
 
 ### **Front end**
 
-React-Native </br>
-Expo </br>
-'Typescript' </br>
-ApolloClient </br>
+- React-Native </br>
+- Expo </br>
+- 'Typescript' </br>
+- ApolloClient </br>
 
 ### **Back end**
 
-ApolloServer </br>
-GraphQL </br>
-Typescript </br>
-Google Cloud Platform (Vision API) </br>
-MongoDB </br>
-Mongoose </br>
+- ApolloServer </br>
+- GraphQL </br>
+- Typescript </br>
+- Google Cloud Platform (Vision API) </br>
+- MongoDB </br>
+- Mongoose </br>
 
 ## **System Requirements**
 
@@ -49,7 +48,7 @@ To get up and running it’s first necessary to install all dependencies. This w
 
 As mentioned the backend works off of a seeded database. This is a script available in the backend. So from the server directory, run:
 
-`npm run seed`
+- `npm run seed` </br>
 
 #### **Google Vision ApiKey**
 
@@ -61,26 +60,23 @@ PORT is the only environment variable needed on the backend. Create a .env file 
 
 #### **Running the server**
 
-`npm run start-dev`
+- `npm run start-dev` </br>
+
 Once all the other steps have been completed, from the src folder in the terminal run
 
-`node index.js`
+- `node index.js` </br>
 
 or, if nodemon is installed (recommended)
 
-`npm run start dev`
+- `npm run start dev`
 
 ### **Setting up the frontend**
 
 #### **Environment variables**
 
-There are two environment variables to set up on the frontend: APOLLOCLIENT_HOST and APOLLOCLIENT_PORT.
-You can run `ipconfig getifaddr en0` in the terminal to find out your IP address.
+There are two environment variables to set up on the frontend: APOLLOCLIENT_HOST and APOLLOCLIENT_PORT. </br>
+You can run `ipconfig getifaddr en0` in the terminal to find out your IP address. See `.env.example`.
 
 #### **Running the client**
 
-`expo start`
-
-or
-
-`npm run start`
+- `npm run start`
