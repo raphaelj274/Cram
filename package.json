@@ -1,7 +1,7 @@
 {
   "name": "cram",
   "version": "1.0.0",
-  "description": "GCSE Revision tool",
+  "description": "Ed-tech App leveraging AI & OCR to help students move past breakpoints.",
   "main": "index.js",
   "devDependencies": {
     "cypress": "^7.2.0"
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/romduda/cram.git"
+    "url": "git+https://github.com/raphaelj274/cram.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/romduda/cram/issues"
+    "url": "https://github.com/raphaelj274/cram/issues"
   },
-  "homepage": "https://github.com/romduda/cram#readme"
+  "homepage": "https://github.com/raphaelj274/cram#readme"
 }
