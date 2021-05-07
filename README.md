@@ -8,7 +8,7 @@ Currently, Cram allows developers to take a photo of any problem they are strugg
 
 ## **Demo**
 
-![Cram App Demo](assets/demo.gif =250x250)
+![Cram App Demo](assets/demo.gif)
 
 ## **Tech Stack**
 
