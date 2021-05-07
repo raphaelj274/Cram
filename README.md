@@ -39,8 +39,8 @@ Npm v7.5 or greater
 
 To get up and running it’s first necessary to install all dependencies. This will install both the client and server dependencies for you.
 
- - `git clone https://github.com/raphaelj274/cram` </br>
- -  ` cd cram && npm i` </br>
+- `git clone https://github.com/raphaelj274/cram` </br>
+- ` cd cram && npm i` </br>
 
 ### **Setting up the backend**
 
@@ -62,7 +62,7 @@ PORT is the only environment variable needed on the backend. Create a .env file 
 
 - `npm run start-dev` </br>
 
-Once all the other steps have been completed, from the src folder in the terminal run
+Once all the other steps have been completed, from the src folder run
 
 - `node index.js` </br>
 
