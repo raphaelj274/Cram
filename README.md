@@ -9,7 +9,7 @@ Currently, Cram allows developers to take a photo of any problem they are strugg
 ## **Demo**
 
 <!-- ![Cram App Demo](assets/demo.gif) -->
-<img src="/assets/demo.gif" alt="Cram App Demo" width="250" height="250"/>
+<img src="/assets/demo3.gif" alt="Cram App Demo"/>
 
 ## **Tech Stack**
 
