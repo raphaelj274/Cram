@@ -7,5 +7,5 @@ const server = new ApolloServer({ typeDefs, resolvers });
 
 server
   .listen({ port: process.env.PORT })
-  .then(({ url }) => console.log(`🚀  Server ready at ${url}`))
+  .then(({ url }) => console.log(`Server ready at ${url}`))
   .catch((err) => console.log(err));
