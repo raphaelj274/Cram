@@ -40,8 +40,8 @@ Npm v7.5 or greater
 
 To get up and running it’s first necessary to install all dependencies. This will install both the client and server dependencies for you.
 
-`git clone https://github.com/raphaelj274/cram`
-Run `npm i` – this will install dependencies in both the client and server folders.
+ - `git clone https://github.com/raphaelj274/cram` </br>
+ -  ` cd cram && npm i` </br>
 
 ### **Setting up the backend**
 
